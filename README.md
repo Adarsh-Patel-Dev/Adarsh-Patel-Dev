@@ -1,4 +1,4 @@
-# Hi there 👋, I am Adarsh Patel
+# 👋 Hey everyone, I'm Adarsh Patel
 
 
 ## A passionate learner and Front End developer from Lucknow, India.
@@ -21,13 +21,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Patel-Dev&layout=compact&theme=dark)](https://github.com/Adarsh-Patel-Dev/github-readme-stats)
 
-## Recent Projects
+<!-- ## Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Patel-Dev&theme=dark&repo=e-commerce-React)](https://github.com/Adarsh-Patel-Dev/e-commerce-React)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Patel-Dev&theme=dark&repo=Planet-Player)](https://github.com/Adarsh-Patel-Dev/Planet-Player)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Patel-Dev&theme=dark&repo=PlayNote)](https://github.com/Adarsh-Patel-Dev/PlayNote)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Adarsh-Patel-Dev&theme=dark&repo=PlayNote)](https://github.com/Adarsh-Patel-Dev/PlayNote) -->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Adarsh-Patel-Dev&hide=issues&title=Commits,Repository,PullRequest&margin-w=15&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## MY WakaTime Stats
 [![Adarsh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdarshPatel&theme=dark&layout=compact)](https://github.com/Adarsh-Patel-Dev/github-readme-stats)
@@ -50,7 +51,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
 </p>
-
 
 
 <h3 align="left">Connect with me:</h3>

@@ -12,7 +12,8 @@
 
 - 📫 How to reach me: adarsh.patel9619@gmail.com
 
-- 🤓 Fun fact: I'm also a frontend meme developer
+- 📄 You can find my resume here: <a href="https://drive.google.com/file/d/16oY2Mi_zn-P4Mt9w2uZxtT99wbBcR_it/view?usp=sharing">Resume</a>
+
 
 ## MY Github Stats
 [![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adarsh-Patel-Dev&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/Adarsh-Patel-Dev/github-readme-stats)
